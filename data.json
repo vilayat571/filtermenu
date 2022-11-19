@@ -1,0 +1,41 @@
+{
+  "breakfast": [
+    {
+      "id": 1,
+      "title": "Buttermilk Pancakes",
+      "price": 15.33432,
+      "description": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed",
+      "image": "https://vanilla-js-basic-project-8-menu.netlify.app/images/item-1.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Country Delight",
+      "price": 23.4343,
+      "description": "Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut,",
+      "image": "https://vanilla-js-basic-project-8-menu.netlify.app/images/item-4.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Bacon Overflow",
+      "price": 56.434,
+      "description": "Carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird",
+      "image": "https://vanilla-js-basic-project-8-menu.netlify.app/images/item-7.jpeg"
+    }
+  ],
+  "dinner": [
+    {
+      "id": 4,
+      "title": "Steak Dinner",
+      "price": 98.232,
+      "description": "Skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.",
+      "image": "https://vanilla-js-basic-project-8-menu.netlify.app/images/item-10.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Dinner double",
+      "price": 30.434,
+      "description": "Vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats",
+      "image": "https://vanilla-js-basic-project-8-menu.netlify.app/images/item-2.jpeg"
+    }
+  ]
+}
